@@ -1,29 +1,33 @@
-
-.header_div{
-    background-color:peru	;
-    width: 100%;
-    line-height: 5px;
-    margin: 2px;
-    border-radius: 15px;
-    border-color: indigo;
-    border-width: 4.5;
+body{
+    border-radius: 6px;
+    border-width: 10px;
+    border-color: goldenrod;
+    border-style: double;
 }
 
-
-.bottom_div{
-    background-color: grey;
-    color: white;
+.head_div{
     width: 100%;
-    height: 7%;
-    bottom:0px;
-    margin-top: 760px;
-    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.sub_div{
+    width:99%;
+    color: white;
+    font-size: 22px;
+}
+
+.footer{
+    width:100%;
+    bottom: 0px;
+    margin-top: 790px;
+    font-size: 20px;
 }
 
 canvas{
-    border-color: gold;
-    border-width: 4px;
-    border-radius: 12px;
-    width: 500px;
+    background-color: grey;
+    border-color: black;
+    border-radius: 2px;
+    border-width: 3px;
+    border-style:double;
 }
-
